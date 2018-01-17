@@ -4,7 +4,7 @@
 
 ## Spring 2018 Schedule
 
-#### This lab is available to all CIM students or students taking CIM courses. The lab is open unless a class is being held. A schedule is available below.
+#### This lab is available to all CIM students or students taking CIM-Interactive Media courses. The lab is open unless a class is being held. A schedule is available below.
 
 ### Monday 
 
