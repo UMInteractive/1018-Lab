@@ -4,6 +4,8 @@
 
 ## Spring 2018 Schedule
 
+#### This lab is available to all CIM students or students taking CIM courses. The lab is open unless a class is being held. A schedule is available below.
+
 ### Monday 
 
 CIM 542-642: Physical Computing 10:10 AM - 12:40 PM
