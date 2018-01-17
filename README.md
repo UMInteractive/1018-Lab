@@ -1,6 +1,6 @@
 # 1018-Lab
 
-[Please visit the Lab Wiki for more information](https://github.com/UMInteractive/1018-Lab/wiki)
+[Please visit the Lab Wiki for more lab and equipment procedures](https://github.com/UMInteractive/1018-Lab/wiki)
 
 ## Spring 2018 Schedule
 
