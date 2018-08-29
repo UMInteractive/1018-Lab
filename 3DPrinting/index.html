@@ -4,9 +4,15 @@
 
 <head>
 
-  <title>UM Cinema and Interactive Media Maker Classroom 1018</title>
+  <title>UM Emerging Media Lab</title>
 
   <link rel="stylesheet" type="text/css" href="../css/layout.css">
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="../js/views.js"></script>
+
+  <script>
+
+  </script>
 
   <style>
   </style>
@@ -15,18 +21,16 @@
 </head>
 
 <body>
+
   <div class="container">
     <header>
-      <h1 id="title">UM CIM Maker Classroom 1018</h1>
+      <h1 id="title">University of Miami Emerging Media Lab</h1>
+      <h3 id="title">School of Communication Frances L. Wolfson, 1st Floor, Room 1018</h1>
     </header>
     <main>
-      <nav>
-        <ul>
 
-          <li><a href="./3DPrinting">3D-Printing</a></li>
+      <nav id="navLinks" v-html="menu"></nav>
 
-        </ul>
-      </nav>
 
       <section>
         <h1 id="3d-printing">3D Printing</h1>
