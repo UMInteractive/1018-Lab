@@ -1,7 +1,5 @@
 window.onload = function () {
 
-
-
       var navRoot = new Vue({
       el: '#navRoot',
       data: {
