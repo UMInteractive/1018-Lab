@@ -7,40 +7,32 @@
 For more information visit https://uminteractive.github.io/eml/
 
 ### Monday
+CIM 413-613: Mobile Application Development
+11:15 AM - 12:30 PM
 
-CIM 540: Creative Coding
-12:30 - 1:45PM
+CIM 424-624: Augmented Reality
+2:30 PM - 3:45 PM
 
 ### Tuesday
-CIM 471: Social Impact Games
-11:00 AM - 12:15 PM
+CIM 310: Introduction to Game Design
+11:00 AM - 1:30 PM
 
-CIM 591:  Advanced Systems: Designing Playful Experiences 12:30 - 1:45 PM
-
-CIM 310: Intro to Game Design
-2:00 - 3:15 PM
-
-CIM 640: Creative Coding
-5:00 - 6:15 PM
+CIM 540-640: Creative Coding
+2:00 PM - 4:30 PM
 
 ### Wednesday
-CIM 540: Creative Coding
-12:30 - 1:45PM
+CIM 413-613: Mobile App Development
+11:15 AM - 12:30 PM
 
-CIM 394: Special Topics
-3:35 - 6:05PM
+CIM 424-624: Augmented Reality
+2:30 PM - 3:45 PM
+
+CIM 416-616: Building Virtual Worlds
+5:00 PM - 7:30 PM
 
 ### Thursday
-CIM 471: Social Impact Games
-11:00 AM - 12:15 PM
-
-CIM 591:  Advanced Systems: Designing Playful Experiences 12:30 - 1:45 PM
-
-CIM 310: Intro to Game Design
-2:00 - 3:15 PM
-
-CIM 640: Creative Coding
-5:00 - 6:15 PM
+CIM 542-642: Intro to Physical Computing
+2:00 PM - 4:30 PM
 
 ### Friday
 Lab Open All Day!
